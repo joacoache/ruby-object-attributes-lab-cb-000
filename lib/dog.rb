@@ -3,7 +3,7 @@ class Dog
     @name = name_new
   end
 
-  def name(name)
+  def name
     @name
   end
 
@@ -11,7 +11,7 @@ class Dog
     @breed = breed_new
   end
 
-  def breed(breed)
+  def breed
     @breed
   end
 end
